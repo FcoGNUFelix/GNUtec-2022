@@ -1,8 +1,17 @@
 # Projeto de Inovação (Inovatec 2022)
 
 ## Integrantes 
-
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+- Franscisco Vinicuis M. Felix (João Pessoa - PB)
+- Melissa Oliveira (Rio de Janeiro - RJ)
+- João Lucas (PE)
+- Francine Santana (SP)
+- Roberthy Lima (RJ)
+- Ruth Santos (RJ)
+- Vitoria Santos (Aracaju - SE)
+- Laura Maria (Garanhuns - PE)
+- Iolanda Ramos (Camaçari - BA)
+- 
+Especificar as funções dos integrantes do grupo (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
 
 ## Passos
 
